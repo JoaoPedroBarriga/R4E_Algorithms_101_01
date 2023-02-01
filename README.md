@@ -1,9 +1,16 @@
 # R4E_Algorithms_101_01
-Software Developer | Algorithms 101: Practical exercises | 
 
-=================================================
-Reading/Writing - Variables - Conditions - Cycles
-=================================================
+Software Developer | Algorithms 101: Practical exercises 
+-
+- These exercises are a series done in JAVA, using IntelliJ IDEA.
+
+- To run each one, in src/Main.java -> scroll down to line 539, and input intended exercise number.
+
+- In src/AlgorithmExercisesSheet <-- Below list is there also!
+
+## **That's all folks!**
+
+###### **Reading/Writing - Variables - Conditions - Cycles**
 
 EXERCISES – GROUP I - Reading/Writing ; Variables
 
