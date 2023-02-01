@@ -32,22 +32,12 @@ EXERCISES – GROUP II - Conditions
 09. Write a program that receives 4 values and returns the smallest one.
 10. Write a program that checks if a number is odd.
 11. Write a program that receives 3 values that will represent the sides of a triangle and check if the values
-    form a triangle and classify this triangle as:
-    • Equilateral (3 equal sides);
-    • Isosceles (2 equal sides);
-    • Scalene (3 different sides).
-Note that to form a triangle:
-    • None of the sides can be equal to zero;
-    • One side cannot be greater than the sum of the other two;
+    form a triangle and classify this triangle.
 12. Use the IF structure to make a program that returns the name of a product from its code.
-    Consider the following codes:
-    • 001 - Screw;
-    • 002 - Nut;
-    • 003 - Nail;
-    • For any other code indicate “Not defined”.
 13. Redo the previous exercise using the structure IF-CASE === switch.case
 
 EXERCISES – GROUP III - CYCLES
+
 14. Write a program that uses the WHILE structure to read 50 numbers and calculate and display the arithmetic mean
     from them.
 15. Redo the exercise using the FOR framework.
@@ -56,8 +46,9 @@ EXERCISES – GROUP III - CYCLES
     average.
 18. Given a set of n integers entered by the user, make an algorithm that calculates the average of the
     values greater than 4.
-
+    
 EXERCISES – GROUP IV
+
 19. Create a program that lets you convert a value in hours to seconds and displays the value in seconds.
 20. Create a program that lets you convert a value in days to years, weeks, and days.
 21. Create a program that lets you convert a value in bytes to bits.
