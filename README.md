@@ -6,7 +6,7 @@ Software Developer | Algorithms 101: Practical exercises
 
 - To run each one, in src/Main.java -> scroll down to line 539, and input intended exercise number.
 
-- In src/AlgorithmExercisesSheet <-- Below list is there also!
+- In src/AlgorithmExercisesSheet <-- List of exercises.
 
 ## **That's all folks!**
 
